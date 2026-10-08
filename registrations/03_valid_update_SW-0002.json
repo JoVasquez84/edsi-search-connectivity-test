@@ -1,0 +1,11 @@
+{
+  "identifier": "SW-0002",
+  "title": "Mission Scheduler 2 (updated)",
+  "asset_type": "software",
+  "domain": "Mission Planning",
+  "classification": ["CUI//SP-PROPIN"],
+  "version": "3.1.0",
+  "prod_approved": true,
+  "modified": "2026-10-08",
+  "keyword": ["scheduler", "mission"]
+}

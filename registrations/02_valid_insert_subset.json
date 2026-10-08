@@ -1,0 +1,13 @@
+{
+  "identifier": "SW-9002",
+  "title": "Telemetry Gateway",
+  "asset_type": "software",
+  "domain": "Flight Operations",
+  "classification": ["CUI//SP-CTI"],
+  "version": "0.9.0",
+  "repository_url": "https://github.com/JoVasquez84/telemetry-gateway",
+  "language": "Rust",
+  "prod_approved": false,
+  "modified": "2026-10-05",
+  "keyword": ["telemetry", "ingest"]
+}
